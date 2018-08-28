@@ -41,9 +41,9 @@ $coinList = $sqlite->getlist('select * from coin order by id DESC');
             	  <ul class="nav navbar-nav">
                     <li class='active'><a href="manger.php">币管理</a></li>
                  </ul>
-                 <ul class="nav navbar-nav">
-                   <li><a href="manger.php">显卡管理</a></li>
-                </ul>
+                 <!-- <ul class="nav navbar-nav">
+                   <li><a href="card_index.php">显卡管理</a></li>
+                </ul> -->
               </div>
             </nav>
         </div>
