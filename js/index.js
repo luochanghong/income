@@ -242,7 +242,7 @@ $(function() {
 			"#factor_xn_hr": 0,
 			"#factor_xn_p": 0,
 			"#factor_tensority_hr": 0,
-			"#factor_sha256_hr": 0,
+			"#factor_sha256_hr": 0.54,
 			"#factor_x13_hr": 0,
 			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
@@ -277,7 +277,7 @@ $(function() {
 			"#factor_xn_hr": 1.6,
 			"#factor_xn_p": 120,
 			"#factor_tensority_hr": 0,
-			"#factor_sha256_hr": 0,
+			"#factor_sha256_hr": 0.63,
 			"#factor_x13_hr": 0,
 			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
@@ -452,7 +452,7 @@ $(function() {
 			"#factor_xn_hr": 2.1,
 			"#factor_xn_p": 90,
 			"#factor_tensority_hr": 1350,//btm内核
-			"#factor_sha256_hr": 0.5,
+			"#factor_sha256_hr": 0.58,
 			"#factor_x13_hr": 7.65,
 			"#factor_x17_hr": 7.5,
 			"#factor_equihashaion_hr":130
@@ -487,7 +487,7 @@ $(function() {
 			"#factor_xn_hr": 3,
 			"#factor_xn_p": 120,
 			"#factor_tensority_hr": 2300,
-			"#factor_sha256_hr": 0.83,
+			"#factor_sha256_hr": 0.84,
 			"#factor_x13_hr": 8,
 			"#factor_x17_hr": 11,
 			"#factor_equihashaion_hr":200
@@ -522,7 +522,7 @@ $(function() {
 			"#factor_xn_hr": 3.6,
 			"#factor_xn_p": 120,
 			"#factor_tensority_hr": 2650,
-			"#factor_sha256_hr": 0,
+			"#factor_sha256_hr": 1.05,
 			"#factor_x13_hr": 12.5,
 			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
@@ -557,7 +557,7 @@ $(function() {
 			"#factor_xn_hr": 3.8,
 			"#factor_xn_p": 130,
 			"#factor_tensority_hr": 2900,
-			"#factor_sha256_hr": 0,
+			"#factor_sha256_hr": 1.1,
 			"#factor_x13_hr": 15,
 			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
@@ -592,7 +592,7 @@ $(function() {
 			"#factor_xn_hr": 5.3,
 			"#factor_xn_p": 190,
 			"#factor_tensority_hr": 3800,
-			"#factor_sha256_hr": 1.5,
+			"#factor_sha256_hr": 1.55,
 			"#factor_x13_hr": 21.8,
 			"#factor_x17_hr": 20,
 			"#factor_equihashaion_hr":335
