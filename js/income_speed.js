@@ -132,7 +132,7 @@ var card_280x = {
     "#miner_tensority_hr": 0,
     "#miner_sha256_hr": 0,
     "#miner_x13_hr": 0,
-    "#miner_x17_hr": 5.7,
+    "#miner_x17_hr": 0,
     "#miner_equihash-aion_hr":0
 },card_480 = {
     "#miner_bk2b_hr": 990,
@@ -166,7 +166,7 @@ var card_280x = {
     "#miner_tensority_hr": 0,
     "#miner_sha256_hr": 0,
     "#miner_x13_hr": 0,
-    "#miner_x17_hr": 5.9,
+    "#miner_x17_hr": 0,
     "#miner_equihash-aion_hr":0
 },card_570 = {
     "#miner_bk2b_hr": 840,
@@ -200,7 +200,7 @@ var card_280x = {
     "#miner_tensority_hr": 0,
     "#miner_sha256_hr": 0.54,
     "#miner_x13_hr": 0,
-    "#miner_x17_hr": 6.2,
+    "#miner_x17_hr": 0,
     "#miner_equihash-aion_hr":0
 },card_580 = {
     "#miner_bk2b_hr": 990,
@@ -234,7 +234,7 @@ var card_280x = {
     "#miner_tensority_hr": 0,
     "#miner_sha256_hr": 0.63,
     "#miner_x13_hr": 0,
-    "#miner_x17_hr": 7,
+    "#miner_x17_hr": 0,
     "#miner_equihash-aion_hr":0
 },card_vega56 = {
     "#miner_bk2b_hr": 1900,
@@ -370,7 +370,7 @@ var card_280x = {
     "#miner_tensority_hr": 630,
     "#miner_sha256_hr": 0,
     "#miner_x13_hr": 5.7,
-    "#miner_x17_hr": 6,
+    "#miner_x17_hr": 0,
     "#miner_equihash-aion_hr":0
 },card_1060 = {
     "#miner_bk2b_hr": 990,
@@ -404,7 +404,7 @@ var card_280x = {
     "#miner_tensority_hr": 1350,
     "#miner_sha256_hr": 0.58,
     "#miner_x13_hr": 8.5,
-    "#miner_x17_hr": 9.5,
+    "#miner_x17_hr": 7.5,
     "#miner_equihash-aion_hr":130
 },card_1070 = {
     "#miner_bk2b_hr": 1600,
@@ -438,7 +438,7 @@ var card_280x = {
     "#miner_tensority_hr": 2300,
     "#miner_sha256_hr": 0.84,
     "#miner_x13_hr": 12.2,
-    "#miner_x17_hr": 12.5,
+    "#miner_x17_hr": 11,
     "#miner_equihash-aion_hr":200
 },card_1070ti = {
     "#miner_bk2b_hr": 1800,
@@ -472,7 +472,7 @@ var card_280x = {
     "#miner_tensority_hr": 2650,
     "#miner_sha256_hr": 1.05,
     "#miner_x13_hr": 15,
-    "#miner_x17_hr": 14.5,
+    "#miner_x17_hr": 0,
     "#miner_equihash-aion_hr":0
 },card_1080 = {
     "#miner_bk2b_hr": 2150,
@@ -506,7 +506,7 @@ var card_280x = {
     "#miner_tensority_hr": 2900,
     "#miner_sha256_hr": 1.1,
     "#miner_x13_hr": 17,
-    "#miner_x17_hr": 18,
+    "#miner_x17_hr": 0,
     "#miner_equihash-aion_hr":0
 },card_1080ti = {
     "#miner_bk2b_hr": 2800,
@@ -540,7 +540,7 @@ var card_280x = {
     "#miner_tensority_hr": 3800,
     "#miner_sha256_hr": 1.55,
     "#miner_x13_hr": 23.5,
-    "#miner_x17_hr": 22,
+    "#miner_x17_hr": 20,
     "#miner_equihash-aion_hr":335
 };
 var card_input_name = ['card_280x','card_380','card_fury','card_470','card_480','card_570','card_580','card_vega56','card_vega64','card_750ti','card_1050ti','card_1060','card_1070','card_1070ti','card_1080','card_1080ti'];

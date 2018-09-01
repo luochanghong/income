@@ -174,7 +174,7 @@ $(function() {
 			"#factor_tensority_hr": 0,
 			"#factor_sha256_hr": 0,
 			"#factor_x13_hr": 0,
-			"#factor_x17_hr": 5.7,
+			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
 		}, d = {
 			//480
@@ -209,7 +209,7 @@ $(function() {
 			"#factor_tensority_hr": 0,
 			"#factor_sha256_hr": 0,
 			"#factor_x13_hr": 0,
-			"#factor_x17_hr": 5.9,
+			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
 		}, p = {
 			//570
@@ -244,7 +244,7 @@ $(function() {
 			"#factor_tensority_hr": 0,
 			"#factor_sha256_hr": 0.54,
 			"#factor_x13_hr": 0,
-			"#factor_x17_hr": 6.2,
+			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
 		}, _ = {
 			//580
@@ -279,7 +279,7 @@ $(function() {
 			"#factor_tensority_hr": 0,
 			"#factor_sha256_hr": 0.63,
 			"#factor_x13_hr": 0,
-			"#factor_x17_hr": 7,
+			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
 		}, v = {
 			//vega56
@@ -419,7 +419,7 @@ $(function() {
 			"#factor_tensority_hr": 630,
 			"#factor_sha256_hr": 0,
 			"#factor_x13_hr": 5.7,
-			"#factor_x17_hr": 6,
+			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
 		}, o = {
 			//1060
@@ -454,7 +454,7 @@ $(function() {
 			"#factor_tensority_hr": 1350,//btm内核
 			"#factor_sha256_hr": 0.58,
 			"#factor_x13_hr": 8.5,
-			"#factor_x17_hr": 9.5,
+			"#factor_x17_hr": 7.5,
 			"#factor_equihashaion_hr":130
 		}, s = {
 			//1070
@@ -489,7 +489,7 @@ $(function() {
 			"#factor_tensority_hr": 2300,
 			"#factor_sha256_hr": 0.84,
 			"#factor_x13_hr": 12.5,
-			"#factor_x17_hr": 12.5,
+			"#factor_x17_hr": 11,
 			"#factor_equihashaion_hr":200
 		}, a = {
 			//1070ti
@@ -524,7 +524,7 @@ $(function() {
 			"#factor_tensority_hr": 2650,
 			"#factor_sha256_hr": 1.05,
 			"#factor_x13_hr": 15,
-			"#factor_x17_hr": 14.5,
+			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
 		}, l = {
 			//1080
@@ -559,7 +559,7 @@ $(function() {
 			"#factor_tensority_hr": 2900,
 			"#factor_sha256_hr": 1.1,
 			"#factor_x13_hr": 17,
-			"#factor_x17_hr": 18,
+			"#factor_x17_hr": 0,
 			"#factor_equihashaion_hr":0
 		}, c = {
 			//1080ti
@@ -594,7 +594,7 @@ $(function() {
 			"#factor_tensority_hr": 3800,
 			"#factor_sha256_hr": 1.55,
 			"#factor_x13_hr": 23.5,
-			"#factor_x17_hr": 22,
+			"#factor_x17_hr": 20,
 			"#factor_equihashaion_hr":335
 		}, r = Object.keys(u), e = function() {
 			var e, t, n, b, E, w, T, x, C, S, A, k, D, O, I, N, j, P, L, H, R, M, q, W, F, U, B, V, z, G, K, Y, Q, X, J, Z;
