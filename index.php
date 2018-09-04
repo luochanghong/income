@@ -111,7 +111,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">PHI1612</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly id="miner_phi_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly id="miner_phi_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">Mh/s</span></div>
 			            </div>
@@ -123,7 +123,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">CNHeavy</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly id="miner_cnh_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly id="miner_cnh_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">h/s</span></div>
 			            </div>
@@ -139,7 +139,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">CryptoNightV7</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly id="miner_cn7_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly id="miner_cn7_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">h/s</span></div>
 			            </div>
@@ -151,7 +151,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">Equihash</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly id="miner_eq_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly id="miner_eq_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">h/s</span></div>
 			            </div>
@@ -167,7 +167,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">Lyra2REv2</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly  id="miner_lrev2_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly  id="miner_lrev2_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">kh/s</span></div>
 			            </div>
@@ -179,7 +179,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">NeoScrypt</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly id="miner_ns_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly id="miner_ns_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">kh/s</span></div>
 			            </div>
@@ -195,7 +195,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">TimeTravel10</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly id="miner_tt10_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly id="miner_tt10_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">Mh/s</span></div>
 			            </div>
@@ -207,7 +207,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">X16R</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly id="miner_x16r_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly id="miner_x16r_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">Mh/s</span></div>
 			            </div>
@@ -223,7 +223,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">Lyra2z</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly id="miner_l2z_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly id="miner_l2z_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">Mh/s</span></div>
 			            </div>
@@ -235,7 +235,7 @@
 			                <span class="btn btn-default" data-toggle="popover" data-placement="bottom" data-trigger="hover">PHI2</span></label>
 			            </div>
 			            <div class="input-group input-group-sm mb-2">
-			              <input class="form-control" type="text" value="0" readonly id="miner_phi2_hr" />
+			              <input class="form-control" type="text" value="0.00" readonly id="miner_phi2_hr" />
 			              <div class="input-group-append">
 			                <span class="input-group-text">Mh/s</span></div>
 			            </div>
