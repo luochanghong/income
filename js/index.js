@@ -898,8 +898,10 @@ $(function() {
 //后台运行php程序获取json数据 每隔60秒刷新一次
 setTimeout(function(){
 	// updateCoinInfo();
-    setTimeout(arguments.callee,60000);
-},60000)
+	// getInfo();
+	// getApiInfo();
+    setTimeout(arguments.callee,600000);
+},600000)
 
 function updateCoinInfo(){
 	$.ajax({

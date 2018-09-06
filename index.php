@@ -325,7 +325,9 @@
 			  	  </div>
 			  	</div>
 				</div>
-				<h5>收益排行</h5>
+				<h5>收益排行
+					<span style="float:right"><a style="text-decoration:none" href="javascript:;" onclick="getInfo()">刷新</a><span>
+			  </h5>
 				<table class="table table-sm table-hover table-vcenter">
 				   <thead>
 				    <tr>
@@ -813,7 +815,7 @@
 	<img src="img/pic.png" />
 	<span>计算</span>
 </div>
-<h5>收益排行</h5>
+<h5>收益排行<span style="float:right"><a style="text-decoration:none" href="javascript:;" onclick="getApiInfo()">刷新</a><span></h5>
 <table class="table table-sm table-hover table-vcenter" id="dataTables" >
    <thead>
     <tr>
